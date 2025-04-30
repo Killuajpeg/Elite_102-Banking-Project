@@ -1,5 +1,3 @@
-#Possibly add user passwords and a limit so the user cant just withdrawl
-
 
 from bank_account import BankAccount
 
